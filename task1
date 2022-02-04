@@ -1,0 +1,70 @@
+<html>
+
+
+  <head>
+
+  <title>TASK ONE</title
+          
+  </head>
+
+ <body>
+ <h1><b>Introduction</b></h1>
+ 
+ <p1><i>Lorem ipsum dolor sit amet consectetur, adipsicing elit. Aspernatur distinctio, voluptas earum asperiores</br>
+     numquam ullam! Numquam, vitae totam magnam ducimus consectetur non sed recusandae dolores, corporis</br>
+    consequatur neque, quaerat tempore!</i></p1>
+
+ <h2>Blog heading 1</h2>
+ <p1>Lorem ipsum dolor sit amet consectetur adipsicing elit. Rerum vel sint illo laboriosam ea explicabo nisi</br> commodi voluptate ab quo?</p1>
+ 
+ <h2>Blog heading 2</h2>
+ <p1>Lorem ipsum dolor sit amet consectetur adipsicing elit. Rerum vel sint illo laboriosam ea explicabo nisi</br> commodi voluptate ab quo?</p1>
+ 
+ <h2>Blog heading 3</h2>
+ <p1><b>Lorem ipsum dolor sit amet consectetur adipsicing elit. Rerum vel sint illo laboriosam ea explicabo</br> nisi commodi voluptate ab quo?</b></p1>
+
+ <h1>List of items you can find here</h1>
+ <ul>
+  <li>Number 1</li>
+  <li>Number 2</li>
+  <li>Number 3</li>
+  <li>Number 4</li>
+ </ul>
+ 
+ <h1>List of items you can find here</h1>
+ <ol>
+  <li>Number 1</li>
+  <li>Number 2</li>
+  <li>Number 3</li>
+  <li>Number 4</li>
+ </ol>
+ 
+ <h2>The above contents can be accessed here</h2>
+
+ <a href="https://google.com" target="_blank">About the blog</a><br>
+        <a href="https://google.com" target="_blank">Contents</a><br>
+        <a href="https://google.com" target="_blank">Bloggers</a><br>
+        <a href="https://google.com" target="_blank">Niche of blog</a><br>
+
+ <h2>Form to be filled:</h2>
+  <p1>First name: </p1><input type="text" value="Enter your first name"/></br></br>
+  <p1>Last name: </p1><input type="text" value="Enter your last name"/></br></br>
+  <p1>Mobile: </p1><input type="text" value="Enter your Number"/></br></br>
+  <p1>Enter Email: </p1><input type="text" value="Enter your email"/></br></br>
+  <p1>Enter Date of birth: </p1><input type="date" value="dd-mm-yyyy"/></br>
+  
+  </br><p1>Enter your choice:</p1></br>
+  <input  name="btn1" type="radio"/><text>Car</text></br>
+  <input  name="btn1" type="radio"/><text>Two wheeler</text></br>
+  <input  name="btn1" type="radio"/><text>Public transport</text></br>
+
+  </br><text>Select your choice</text></br>
+  <input type="checkbox"><text>Female</text></br>
+  <input type="checkbox"><text>Male</text></br>
+  <input type="checkbox"><text>other</text></br>
+  <input type="checkbox"><text>Prefer not to say</text></br></br>
+
+  <input type="submit">
+
+  </body>
+</html>
