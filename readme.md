@@ -5,3 +5,6 @@
 *  Create a branch of your name.
 *  Create a main folder of your name, within it create sub-folders with name Task-1, Task-2 etc
 *  Include all the necesseary files within it.
+
+### Figma Link
+- [Figma](https://www.figma.com/file/HYyYhIwfwfe1LkWW0zOFmv/ADG-Task-Phase?node-id=0%3A1) - Find the figma format of the tasks here
