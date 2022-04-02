@@ -1,0 +1,160 @@
+h1{
+    color:orange;
+    font-family:Thoma;
+    font-weight:800;
+    text-decoration:italic;
+    text-decoration:underline;
+    text-transformation:uppercase;
+    letter-spacing:normal;
+    word-spacing: 0.2em;
+    text-align:center;
+    }
+    
+    a{
+       text-decoration: none;
+       color: #000;
+       }
+    a:hover{
+       color:red;
+       }
+    a:active{
+       color:green;
+       }
+    
+    .my-form input[type="submit"]
+    
+    .button{
+          background-color:#333;
+          color:#fff;
+          border:#fff;
+          padding:10px 15px;
+          border:none;
+          }
+    
+    .button:hover{
+          background:red;
+          color:#fff;
+        }
+    
+    body{
+    background-color:#FFF0F5;
+    color:#555555
+    font: normal 16px Calibre, Helvetica, sans-serif;
+    line-height:1.2em;
+    }
+    
+    .body{
+      background-image: url('../imagew/thing1.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+    
+    .container{
+    width:950px;
+    margin:auto;
+    }
+    
+    .box{
+       background-color:#283747;
+       color:#fff;
+       border: 3px orange solid;
+       padding:15px;
+    
+       text-align:center;
+    }
+    
+    .block{
+          float:bottom;
+          width:76%;
+          width:69%
+          padding:20px;
+          border:1px dotted #ccc;
+          box-sizing:;
+          margin:auto;
+          position:relative; left:0px
+          }
+    
+    .block h3{
+    font-family:calibre;
+    text-decoration:underline;
+    letter-spacing:normal;
+    text-align:center;
+    }
+    
+    .my-list li:nth-child(odd){
+        background-color:#5D6D7E;
+        width:50%;
+        padding:10px;
+        }
+    
+    .my-list li:nth-child(even){
+        background-color:#EAEDED;
+        width:50%;
+        padding:10px;
+        }
+    
+    h3{
+    text-decoration:underline;
+    }
+    
+    .categories ul{
+        padding:0;
+        padding-left:20px;
+        list-style:square;
+        list-style:none;
+        }
+    
+    .categories li{
+         padding:10px;
+         border-bottom:dotted 1px #333;
+         /* edit the image as 10px for it to fit in the frame*/
+         list-style-image: url('../images/check.png');
+         }
+    
+    .my-form{
+          padding:23.789px;
+         }
+    
+    .my-form .form-group{
+          padding-bottom:10px;
+          }
+    
+    .my-form label{
+          display:block;
+          }
+    .my-form input[type="text"], .my-form textarea{
+          padding:6px;
+          width:99%;
+          }
+    
+    .button:hover{
+          background:red;
+          color:#fff;
+        }
+    
+    .xbox{
+        width:550px;
+        height:230px;
+        border:1px solid #000;
+        margin-top:30px;
+        position:relative;
+        padding:30px;
+        background-image:url('../images/bg1images.jpg');
+        background-position:900px 700px;
+    
+    
+    .xbox h1{
+        position:absolute;
+        top:50px;
+        left:350px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
